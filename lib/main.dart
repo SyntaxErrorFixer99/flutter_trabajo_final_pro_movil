@@ -5,6 +5,7 @@ import 'package:flutter_trbajo_final_pro_movil/src/pages/pelicula_detalle.dart';
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
+  //// eso es ta listo
   // L
   const MyApp({super.key});
 
@@ -21,3 +22,4 @@ class MyApp extends StatelessWidget {
     );
   }
 }
+ // prube de que todo corre bien
